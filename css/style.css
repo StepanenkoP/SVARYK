@@ -23,10 +23,6 @@ body {
 	transition: all .2s ease;
 }
 
-.list li:first-child {
-	border-top: 2px solid #000;
-}
-
 .list li:hover {
 	background-color: #000;
 	color: #fff;
